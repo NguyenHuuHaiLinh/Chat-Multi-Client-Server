@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDoiPass\bin\Debug\FormDoiPass.exe.config
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDoiPass\bin\Debug\FormDoiPass.exe
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDoiPass\bin\Debug\FormDoiPass.pdb
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDoiPass\obj\Debug\FormDoiPass.DoiPass.resources
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDoiPass\obj\Debug\FormDoiPass.Properties.Resources.resources
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDoiPass\obj\Debug\FormDoiPass.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDoiPass\obj\Debug\FormDoiPass.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDoiPass\obj\Debug\FormDoiPass.exe
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDoiPass\obj\Debug\FormDoiPass.pdb
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDoiPass\obj\Debug\FormDoiPass.csprojResolveAssemblyReference.cache

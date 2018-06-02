@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\bin\Debug\FormDangNhap-2.exe.config
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\bin\Debug\FormDangNhap-2.exe
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\bin\Debug\FormDangNhap-2.pdb
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\bin\Debug\Client.exe
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\bin\Debug\FormDangky.exe
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\bin\Debug\Server.exe
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\bin\Debug\Client.pdb
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\bin\Debug\FormDangky.pdb
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\bin\Debug\Server.pdb
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\obj\Debug\FormDangNhap-2.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\obj\Debug\FormDangNhap_2.Form1.resources
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\obj\Debug\FormDangNhap_2.Properties.Resources.resources
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\obj\Debug\FormDangNhap-2.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\obj\Debug\FormDangNhap-2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\obj\Debug\FormDangNhap-2.csproj.CopyComplete
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\obj\Debug\FormDangNhap-2.exe
+C:\Users\asus\Desktop\Multi Chat Client-Server\Client\FormDangNhap-2\obj\Debug\FormDangNhap-2.pdb
